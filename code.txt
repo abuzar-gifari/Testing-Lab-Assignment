@@ -15,7 +15,7 @@ int main()
     }
  
     /* Find frequency of each element */
-    for(i=0; i<size; i++)
+    for(i=0; i<size+1; i++)
     {
         count = 1;
         for(j=i+1; j<size; j++)
