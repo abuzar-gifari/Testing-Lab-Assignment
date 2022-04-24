@@ -2,8 +2,7 @@
  * C program to print all unique elements in array
  */
 
-#include <stdio.h>
-#define MAX_SIZE 100
+
 
 int main()
 {
